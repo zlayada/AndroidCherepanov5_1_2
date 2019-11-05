@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#00B8D4</color>
+    <color name="colorFon">#070707</color>
+    <color name="colorKey">#A7A6A5</color>
+    <color name="colorOperetion">#FF6D00</color>
+    <color name="colorWhite">#FDFDFC</color>
+    <color name="colorGray">#353534</color>
+    <color name="colorFun">#FFAB00</color>
+    <color name="colorKeySettings">#00C853</color>
+    <color name="colorFonSettingsActivity">#FDEC91</color>
+
+</resources>
